@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645104148603",
+    "project_id": "city-ride-12417",
+    "storage_bucket": "city-ride-12417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645104148603:android:036450be125ce4708702de",
+        "android_client_info": {
+          "package_name": "com.example.city_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645104148603-ptb6fkpivdf82eq0t6me5tkpm5mbh983.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ZNTwGnR6dVyRAqzXt01xX3azFLFJ3Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645104148603-ptb6fkpivdf82eq0t6me5tkpm5mbh983.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
